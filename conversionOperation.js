@@ -25,6 +25,11 @@ let str2=" Harsh"
 console.log(+true);
 console.log(+"");
 
+value++;
+++value;
+
+
+
 
 
 
